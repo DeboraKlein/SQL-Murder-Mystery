@@ -61,3 +61,14 @@ Evidências:
 ```sql
 INSERT INTO solution VALUES (1, 'Miranda Priestly');
 SELECT value FROM solution;
+
+---
+
+## 
+15/01/2018 - Homicídio em SQL City
+06/12/2017 - Miranda presente no concerto
+12/12/2017 - Segunda presença confirmada
+29/12/2017 - Terceira presença confirmada
+Jan/2018   - Jeremy Bowers é identificado
+Fev/2018   - Mandante confirmada: Miranda Priestly
+
