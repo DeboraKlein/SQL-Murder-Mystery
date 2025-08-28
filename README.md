@@ -64,29 +64,7 @@ SELECT value FROM solution;
 
 ---
 
-6️⃣ Fluxograma da Investigação
-📊 Etapas do raciocínio e filtragem dos suspeitos
 
-Código
-[Crime Scene Report]
-         |
-         v
-[Identificar executor: Jeremy]
-         |
-         v
-[Perfil da mandante]
-         |
-         v
-[Buscar candidatas no DB]
-         |
-         v
-[Filtrar por características]
-         |
-         v
-[Checar eventos e renda]
-         |
-         v
-[Confirmar presença 3x]
-         |
-         v
-[Identificar: Miranda Priestly]
+
+
+
