@@ -53,7 +53,31 @@ Evidências:
 - Presença exata nas 3 datas-alvo  
 - Perfil físico compatível  
 - Veículo compatível (Tesla Model S)  
-- Alta renda, confirmando “muito dinheiro”  
+- Alta renda, confirmando “muito dinheiro”
+
+  [Crime Scene Report]
+         |
+         v
+[Identificar executor: Jeremy]
+         |
+         v
+[Perfil da mandante]
+         |
+         v
+[Buscar candidatas no DB]
+         |
+         v
+[Filtrar por características]
+         |
+         v
+[Checar eventos e renda]
+         |
+         v
+[Confirmar presença 3x]
+         |
+         v
+[Identificar: Miranda Priestly]
+ 
 
 ---
 
