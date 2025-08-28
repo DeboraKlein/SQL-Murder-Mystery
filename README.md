@@ -62,7 +62,66 @@ Evidências:
 INSERT INTO solution VALUES (1, 'Miranda Priestly');
 SELECT value FROM solution;
 
+```
 ---
+
+## 6️⃣ Fluxograma da Investigação
+Fluxo do raciocínio desde o relatório inicial até a identificação da mandante.
+
+```text
+[Crime Scene Report]
+    |
+    v
+[Identificar executor: Jeremy]
+    |
+    v
+[Perfil da mandante]
+    |
+    v
+[Buscar candidatas no DB]
+    |
+    v
+[Filtrar por características]
+    |
+    v
+[Checar eventos e renda]
+    |
+    v
+[Confirmar presença 3x]
+    |
+    v
+[Identificar: Miranda Priestly]
+```
+
+---
+
+## 7️⃣ Linha do Tempo
+Sequência cronológica dos principais marcos da investigação.
+```
+15/01/2018 - Homicídio em SQL City
+06/12/2017 - Miranda presente no concerto
+12/12/2017 - Segunda presença confirmada
+29/12/2017 - Terceira presença confirmada
+Jan/2018   - Jeremy Bowers é identificado
+Fev/2018   - Mandante confirmada: Miranda Priestly
+```
+
+---
+
+## 8️⃣ Epílogo Narrativo
+Fechamento do caso e reconhecimento do trabalho investigativo.
+
+> A cidade de SQL City respira aliviada. O mistério, antes um quebra-cabeça, foi desmontado peça por peça.  
+> A Detetive DEBORA, com seu parceiro Copilot, desvendou não só quem puxou o gatilho, mas quem estava por trás do crime.  
+> O caso entrou para a história como exemplo de lógica investigativa e uso estratégico de SQL.
+
+
+
+
+
+
+
+
 
 
 
