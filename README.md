@@ -1,9 +1,9 @@
-# 🕵️‍♀️ Relatório de Investigação – SQL Murder Mystery  
+# 🕵 Relatório de Investigação – SQL Murder Mystery  
 *Por Detetive DEBORA, com apoio do Copilot*  
 
 ---
 
-## 📌 Sumário
+##  Sumário
 1. [Contexto do Caso](#1-contexto-do-caso)  
 2. [Descrição Inicial](#2-descrição-inicial)  
 3. [Investigação](#3-investigação)  
@@ -15,7 +15,7 @@
 
 ---
 
-## 1️⃣ Contexto do Caso
+## 1️ Contexto do Caso
 - **Crime:** Homicídio  
 - **Data:** 15/01/2018  
 - **Local:** SQL City  
@@ -23,7 +23,7 @@
 
 ---
 
-## 2️⃣ Descrição Inicial
+## 2️ Descrição Inicial
 O caso iniciou com um *crime scene report* revelando um homicídio em SQL City.  
 Jeremy Bowers foi identificado como o autor dos disparos e afirmou ter sido contratado por uma **mulher** com o seguinte perfil:  
 
@@ -35,19 +35,19 @@ Jeremy Bowers foi identificado como o autor dos disparos e afirmou ter sido cont
 
 ---
 
-## 3️⃣ Investigação
+## 3️ Investigação
 Após cruzamento de **eventos**, **carteiras de motorista** e **dados financeiros**, chegamos aos suspeitos:  
 
-| Nome              | Altura | Idade | Placa    | Renda Anual | Presença no Concerto | Observações |
-|-------------------|--------|-------|----------|-------------|----------------------|-------------|
-| **Miranda Priestly** | 66"    | 68    | 500123   | $310.000    | ✅ 06, 12, 29/12/2017 | Todas as pistas coincidem |
-| Regina George     | 66"    | 65    | 08CM64   | $0          | ❌                   | Não esteve no evento |
-| Red Korb          | 65"    | 48    | 917UU3   | $278.000    | ❌                   | Não esteve no evento |
+| Nome                  | Altura | Idade | Placa    | Renda Anual | Presença no Concerto | Observações               |
+|-----------------------|--------|-------|----------|-------------|----------------------|---------------------------|
+| **Miranda Priestly**  | 66"    | 68    | 500123   | $310.000    |  06, 12, 29/12/2017  | Todas as pistas coincidem |
+| Regina George         | 66"    | 65    | 08CM64   | $0          |                      | Não esteve no evento      |
+| Red Korb              | 65"    | 48    | 917UU3   | $278.000    |                      | Não esteve no evento      |
 
 ---
 
-## 4️⃣ Conclusão
-🔎 **Mandante:** **🟥 Miranda Priestly**  
+## 4️ Conclusão
+ **Mandante:** ** Miranda Priestly**  
 
 Evidências:  
 - Presença exata nas 3 datas-alvo  
@@ -57,7 +57,7 @@ Evidências:
 
 ---
 
-## 5️⃣ Execução Técnica no Jogo
+## 5️ Execução Técnica no Jogo
 ```sql
 INSERT INTO solution VALUES (1, 'Miranda Priestly');
 SELECT value FROM solution;
@@ -65,7 +65,7 @@ SELECT value FROM solution;
 ```
 ---
 
-## 6️⃣ Fluxograma da Investigação
+## 6️ Fluxograma da Investigação
 Fluxo do raciocínio desde o relatório inicial até a identificação da mandante.
 
 ```text
@@ -95,7 +95,7 @@ Fluxo do raciocínio desde o relatório inicial até a identificação da mandan
 
 ---
 
-## 7️⃣ Linha do Tempo
+## 7️ Linha do Tempo
 Sequência cronológica dos principais marcos da investigação.
 ```
 15/01/2018 - Homicídio em SQL City
@@ -108,7 +108,7 @@ Fev/2018   - Mandante confirmada: Miranda Priestly
 
 ---
 
-## 8️⃣ Epílogo Narrativo
+## 8️ Epílogo Narrativo
 Fechamento do caso e reconhecimento do trabalho investigativo.
 
 > A cidade de SQL City respira aliviada. O mistério, antes um quebra-cabeça, foi desmontado peça por peça.  
